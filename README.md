@@ -373,14 +373,6 @@ To guarantee programmatic consistency across any evaluator's environment:
 
 ---
 
-## Team
-
-**Team Name:** Code Fusion
-
-* **Revathi S** — revathis19112006@gmail.com
-* **Rattishkumar SS** — rattishkumars@gmail.com
-* **Yasvanth RD** — yasvanth178@gmail.com *(Team Lead)*
-
 ---
 
 ## License
