@@ -1,7 +1,7 @@
 
-# Redrob Hackathon – AI Candidate Ranking System.
+# Scalable-AI-Resume-Ranking-Engine.
 
-AI-powered candidate ranking system for Redrob Hackathon 2026.
+AI-powered candidate ranking system.
 
 ## Overview
 
